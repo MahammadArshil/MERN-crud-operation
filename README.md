@@ -36,7 +36,7 @@ This project is a **simple full-stack CRUD (Create, Read, Update, Delete)** appl
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/MahammadArshil/mern-crud-operation.git
+git clone https://github.com/MahammadArshil/MERN-crud-operation.git
 cd mern-crud-operation
 ```
 ---
